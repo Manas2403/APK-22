@@ -44336,7 +44336,7 @@
     };
   var SN, TN = function(t, e) {
       ! function(t, e) {
-        t.textures || (t.textures = {}), t.materials || (t.materials = {}), t.txLoader.load("./../assets/img/cyberpunk1.jpg", (function(e) {
+        t.textures || (t.textures = {}), t.materials || (t.materials = {}), t.txLoader.load("./../assets/img/cyberpunk3.jpg", (function(e) {
           e.wrapS = e.wrapT = rl, e.repeat.set(1, 1), e.offset.set(-.1425, 0), e.mapping = el, t.textures.sky = e, t.pmremGenerator = new Pw(t.renderer), t.scene.environment = t.pmremGenerator.fromEquirectangular(e).texture, n()
         }));
         var n = function() {
