@@ -51,6 +51,12 @@
 
     <link defer href="dist/main8e0e.css?v=8" rel="stylesheet" />
 
+    <script>
+     function mouseover(){
+         document.getElementById("backtohome").style.color="red";
+     }
+    </script>
+
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",   
@@ -404,6 +410,7 @@
     </div>
 
     </div> -->
+
     <div class="loader">
         <div class="loader-wrap rel x y df fc jcc aic">
             <div class="loader-mask rel | js-loader-mask">
@@ -507,13 +514,44 @@
                 </div>
             </div>
         </div>
-
+"
         <main data-smooth data-router-wrapper>
             <article data-router-view="news" data-id="news">
 
                 <section data-smooth-item class="hero">
                     <div class="c-hero__careers o-gutter-s">
-                        <div class="c-hero__container df fc | js-t-fade">
+                        <div class="c-hero__container df fc | js-t-fade" style="width:90%;justify-content:center;align-items:center;flex-direction: row;color:white;font-size: 24px;">
+                           
+                                <a href="index.html" id="backtohome" onmouseover="this.style.color='#00ffc2'" onmouseout="this.style.color='white'"><h1 style="padding-right:273px;text-decoration:underline;text-decoration-color: #00ffc2;">BACK TO HOME</h1></a>
+                                
+                                <div class="SectionContent" style=" z-index: 40;
+                                font-size: 1vw;
+                                line-height: 1.9vw;
+                                overflow: hidden;backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;">
+                                    <div style=" transform: translateX(-100%);
+                                    -webkit-transform: translateX(-100%);
+                                    transition: 1s transform ease-in-out;
+                                    -webkit-transition: 1s transform ease-in-out;transform: translateX(0);
+    -webkit-transform: translateX(0);
+    transition-delay: 0.5s;
+    -webkit-transition-delay: 0.5s;">
+                                      <div class="GoogleMaps" id="GoogleMaps" data-longtitude="81.7706924384444" data-latitude="25.42992847907796"
+                                        data-style='[{"featureType": "all","elementType": "all","stylers": [{"hue": "#00adff"},{"saturation": "-55"},{"lightness": "25"},{"gamma": "0.60"}]}]' >
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.238407621392!2d81.7686003153883!3d25.43029182844389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399acac768944451%3A0x1f0c03a031f74c3f!2sIndian%20Institute%20of%20Information%20Technology%20Allahabad!5e0!3m2!1sen!2sin!4v1644342206473!5m2!1sen!2sin" width="700" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                                      </div>
+                                      <p>
+                                        <strong>Indian Institute of Information Technology, Allahabad</strong><br />
+                                        Devghat, Jhalwa<br />
+                                        211015, Prayagraj<br /><br />
+                                        Chinmay Nagar
+                                        <br />
+                                        <a class="NiceLink" href="tel:+91 89890 73560">+91 89890 73560</a><br /><br />
+                                        <a class="NiceLink" href="mailto:team@aparoksha.org">team.aparoksha@iiita.ac.in</a>
+                                      </p>
+                                    </div>
+                                  </div>
+                               
                             <!-- <h1 class="c-hero__archive-info c-title__three tu white">
                                 <span><span class="italic">NEWS</span> ABOUT OUR </span> <br>
                                 <span class="normal">STUDIO, OPINIONS </span> <br>
