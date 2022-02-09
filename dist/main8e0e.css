@@ -6,6 +6,7 @@
   clip: rect(1px, 1px, 1px, 1px);
   white-space: nowrap;
 }
+
 .acs {
   align-content: flex-start;
 }
@@ -31345,3 +31346,7 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
     display: none !important;
   }
 }
+
+/* .size{
+  width: 50vw !important;
+} */
