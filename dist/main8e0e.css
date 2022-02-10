@@ -26064,7 +26064,7 @@ p.c-footer__span {
 .c-footer__mid {
   position: relative;
 }
-@media (1180px) {
+@media (max-width: 1180px) {
   .c-footer__colum {
     margin-right: 50px;
   }
