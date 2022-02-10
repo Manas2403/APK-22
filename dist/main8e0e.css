@@ -25491,7 +25491,7 @@ em {
   }
 }
 .c-nav__logo--inner {
-  transform: translateX(-65%);
+  transform: translateX(-78%);
   transition: transform 0.75s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 @media (max-width: 875px) {
@@ -26064,7 +26064,7 @@ p.c-footer__span {
 .c-footer__mid {
   position: relative;
 }
-@media (max-width: 1180px) {
+@media (max-width:1180px) {
   .c-footer__colum {
     margin-right: 50px;
   }
@@ -31347,6 +31347,12 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   }
 }
 
+
+
 /* .size{
   width: 50vw !important;
 } */
+
+.hid{
+  display: none;
+}
