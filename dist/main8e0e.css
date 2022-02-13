@@ -30798,15 +30798,15 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
 }
 .c-culture__grid--bg--1 {
   top: 3.6111111111vw;
-  left: 12.5694444444vw;
-  width: 27.5vw;
+  left: 24.0694444444vw;
+  width: 15.9722222222vw;
   height: 15.9722222222vw;
 }
 .c-culture__grid--bg--2 {
-  top: 7.6388888889vw;
+  top: 3.6111111111vw;
   left: 41.9444444444vw;
   width: 13.75vw;
-  height: 18.0555555556vw;
+  height: 22.0833vw;
 }
 .c-culture__grid--bg--3 {
   top: 13.5416666667vw;
@@ -30835,8 +30835,8 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
 .c-culture__grid--bg--7 {
   top: 27.6388888889vw;
   left: 41.9444444444vw;
-  width: 32.5vw;
-  height: 21.3888888889vw;
+  width: 39.3746vw;
+  height: 8vw;
 }
 .c-culture__grid--bg--8 {
   top: 42.5vw;
@@ -30848,13 +30848,13 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   top: 51.1111111111vw;
   left: 28.1944444444vw;
   width: 18.75vw;
-  height: 25vw;
+  height: 15vw;
 }
 .c-culture__grid--bg--10 {
   top: 51.1111111111vw;
   left: 48.8194444444vw;
   width: 18.75vw;
-  height: 22.1527777778vw;
+  height: 10vw;
 }
 .c-culture__grid--bg--11 {
   top: 51.1111111111vw;
@@ -30914,7 +30914,7 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   top: 107.6388888889vw;
   left: 14.4444444444vw;
   width: 25.6944444444vw;
-  height: 33.3333333333vw;
+  height: 13vw;
 }
 .c-culture__grid--bg--21 {
   top: 107.5vw;
@@ -30981,6 +30981,90 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   left: 73.4027777778vw;
   width: 7.9166666667vw;
   height: 9.4444444444vw;
+}
+.c-culture__grid--bg--32 {
+  top: 148.04vw;
+  left: 73.4027777778vw;
+  width: 7.9166666667vw;
+  height: 9.4444444444vw;
+}
+.c-culture__grid--bg--33 {
+  top: 142.9166666667vw;
+  left: 5.2vw;
+  width: 14.1805555556vw;
+  height: 14.1194444444vw;
+}
+.c-culture__grid--bg--34 {
+  top: 163.629vw;
+  left: 21.3193vw;
+  width: 18.75vw;
+  height: 11.8055555556vw;
+}
+.c-culture__grid--bg--35 {
+  top: 168.477vw;
+  left: 41.875vw;
+  width: 30vw;
+  height: 10vw;
+}
+.c-culture__grid--bg--36 {
+  top: 122.588vw;
+  left: 5.2vw;
+  width: 18.68vw;
+  height: 18.68vw;
+}
+.c-culture__grid--bg--37 {
+  top: 122.588vw;
+  left: 25.83vw;
+  width: 14.17vw;
+  height: 18.68vw;
+}
+.c-culture__grid--bg--38 {
+  top: 158.866666667vw;
+  left: 5.2vw;
+  width: 14.1805555556vw;
+  height: 14.1194444444vw;
+}
+.c-culture__grid--bg--39 {
+  top: 68.061vw;
+  left: 28.1944444444vw;
+  width: 18.75vw;
+  height: 7.969vw;
+}
+.c-culture__grid--bg--40 {
+  top: 13.5416666667vw;
+  left: 68.13vw;
+  width: 13.189vw;
+  height: 12.1527777778vw;
+}
+.c-culture__grid--bg--41 {
+  top: 3.6111111111vw;
+  left: 57.5694444444vw;
+  width: 23.74956vw;
+  height: 7.98vw;
+}
+.c-culture__grid--bg--42 {
+  top: 37.588vw;
+  left: 41.9444444444vw;
+  width: 10vw;
+  height: 11.44vw;
+}
+.c-culture__grid--bg--43 {
+  top: 37.588vw;
+  left: 53.89444vw;
+  width: 27.4256vw;
+  height: 11.44vw;
+}
+.c-culture__grid--bg--44 {
+  top: 3.6111111111vw;
+  left: 7.5694444444vw;
+  width: 14.119vw;
+  height: 15.9722222222vw;
+}
+.c-culture__grid--bg--45 {
+  top: 63.0611vw;
+  left: 48.8194444444vw;
+  width: 18.75vw;
+  height: 10.2vw;
 }
 .c-hero__title--terms {
   margin-bottom: 3.8194444444vw;
