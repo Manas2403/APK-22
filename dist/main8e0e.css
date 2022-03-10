@@ -7,6 +7,8 @@
   white-space: nowrap;
 }
 
+
+
 .acs {
   align-content: flex-start;
 }
@@ -3595,6 +3597,20 @@
 .z9 {
   z-index: 9;
 }
+.m\:db2 {
+  display: block;
+}
+@media (min-width: 450px) {
+  
+  
+}
+
+@media (max-width: 450px) {
+  .resp-font{
+    font-size: 15vw;
+  }
+}
+
 @media (min-width: 415px) {
   .xs\:visually-hidden {
     position: absolute;
@@ -3604,6 +3620,7 @@
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap;
   }
+  
   .xs\:acs {
     align-content: flex-start;
   }
