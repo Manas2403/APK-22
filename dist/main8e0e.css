@@ -23359,7 +23359,7 @@ button.swiper-pagination-bullet {
 }
 .c-title__three {
   font-family: dms-r;
-  font-size: 5.5555555556vw;
+  font-size: 4.5555555556vw;
   line-height: 5.1388888889vw;
 }
 @media (max-width: 875px) {
@@ -27077,7 +27077,7 @@ footer .js-field-error {
 .c-hero__container {
   padding-left: 7.6388888889vw;
   padding-right: 7.6388888889vw;
-  padding-top: 15.625vw;
+  padding-top: 12vw;
 }
 @media (max-width: 875px) {
   .c-hero__container {
@@ -28863,7 +28863,7 @@ footer .js-field-error {
   }
 }
 .c-hero__archive-info {
-  margin-bottom: 3.8888888889vw;
+  margin-bottom: 1.8888888889vw;
 }
 @media (max-width: 875px) {
   .c-hero__archive-info {
@@ -30619,7 +30619,7 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   }
 }
 .c-hero__culture {
-  padding-bottom: 10.4166666667vw;
+  padding-bottom: 0.1vw;
 }
 @media (max-width: 875px) {
   .c-hero__culture {
