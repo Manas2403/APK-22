@@ -23359,13 +23359,13 @@ button.swiper-pagination-bullet {
 }
 .c-title__three {
   font-family: dms-r;
-  font-size: 5.5555555556vw;
+  font-size: 4.5555555556vw;
   line-height: 5.1388888889vw;
 }
 @media (max-width: 875px) {
   .c-title__three {
-    font-size: 46px;
-    line-height: 44px;
+    font-size: 32px;
+    line-height: 32px;
   }
 }
 .c-title__four {
@@ -27077,13 +27077,13 @@ footer .js-field-error {
 .c-hero__container {
   padding-left: 7.6388888889vw;
   padding-right: 7.6388888889vw;
-  padding-top: 15.625vw;
+  padding-top: 10vw;
 }
 @media (max-width: 875px) {
   .c-hero__container {
     padding-left: 0;
     padding-right: 0;
-    padding-top: 160px;
+    padding-top: 125px;
   }
 }
 @media (max-width: 875px) {
@@ -28657,7 +28657,7 @@ footer .js-field-error {
 }
 @media (max-width: 875px) {
   .c-excited {
-    margin-bottom: 160px;
+    margin-bottom: 35px;
   }
 }
 .c-excited__container {
@@ -28863,11 +28863,11 @@ footer .js-field-error {
   }
 }
 .c-hero__archive-info {
-  margin-bottom: 3.8888888889vw;
+  margin-bottom: 0.8888888889vw;
 }
 @media (max-width: 875px) {
   .c-hero__archive-info {
-    padding-bottom: 50px;
+    padding-bottom: 10px;
   }
 }
 .c-archives__container {
@@ -30619,19 +30619,19 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
   }
 }
 .c-hero__culture {
-  padding-bottom: 10.4166666667vw;
+  padding-bottom: 0.1vw;
 }
 @media (max-width: 875px) {
   .c-hero__culture {
-    padding-bottom: 120px;
+    padding-bottom: 1px;
   }
 }
 .c-culture {
-  padding-bottom: 8.3333333333vw;
+  padding-bottom: 0.3333333333vw;
 }
 @media (max-width: 875px) {
   .c-culture {
-    padding-bottom: 100px;
+    padding-bottom: 1px;
   }
 }
 .c-culture__info {
@@ -30662,7 +30662,7 @@ label input[type="checkbox"]:checked ~ .budget-option-text {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 1px;
   }
 }
 .c-culture__grid--bg {
